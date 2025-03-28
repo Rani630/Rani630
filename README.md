@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rani Thotakuri</h1>
 <h3 align="center">Azure Cloud Engineer | DevOps Engineer & SRE</h3>
 
-- 🔭 I’m currently working with **RBC**
-
 - 🌱 I’m currently learning **openshift**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
