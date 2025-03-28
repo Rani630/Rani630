@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani Thotakuri</h1>
 <h3 align="center">Azure Cloud Engineer | DevOps Engineer & SRE</h3>
 
-- 🌱 I’m currently learning **AIOPS or AI Assisted DevOps**
+- 🌱 I’m currently learning **AIOps or AI Assisted DevOps**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
